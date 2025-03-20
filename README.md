@@ -4,5 +4,5 @@ If you have qmail and apf firewall like Interworx does, this script will block /
 
 to run, download script, make it executable, and nohup it:
 ```
-nohup /location/of/script/qmail_block.sh
+nohup /location/of/script/qmail_block.sh &
 ```
